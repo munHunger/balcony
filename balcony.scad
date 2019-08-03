@@ -1,3 +1,8 @@
+translate([2350,910,0])
+mirror([1,0,0])
+rotate([0,0,-90])
+wall(650);
+
 translate([20,910,0])
 rotate([0,0,-90])
 wall(650);

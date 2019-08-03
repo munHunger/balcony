@@ -1,0 +1,5 @@
+
+> @1.0.0 analyze /home/munhunger/develop/balcony
+> node index.js
+
+total length in mm 20040 will require 7 pieces of 3 meters each
